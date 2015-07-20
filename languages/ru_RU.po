@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hueman\n"
+"POT-Creation-Date: 2015-02-06 14:15+0100\n"
+"PO-Revision-Date: 2015-07-20 13:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"Страница, которую вы ищете, не существует. Возможно, она была перемещена "
+"или удалена. Попробуйте найти интересующую вас информацию через главную "
+"страницу."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Нет Комментариев"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 Ответ"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% ответов"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr "Уведомления (pingbacks)"
+
+#: ../footer.php:76
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+#: ../footer.php:82
+msgid "Powered by"
+msgstr "Разработано"
+
+#: ../footer.php:82
+msgid "Theme by"
+msgstr "Тема"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr "На срок"
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Пожалуйста, выберите другие критерии и повторите поиск."
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Поиск..."
+
+#: ../sidebar-2.php:5 ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Расширить"
+
+#: ../sidebar-2.php:11
+msgid "More"
+msgstr "Больше"
+
+#: ../sidebar.php:15
+msgid "Follow:"
+msgstr "Читать @"
+
+#: ../single.php:14
+msgid "by"
+msgstr "Автор:"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../single.php:35
+msgid "Tags:"
+msgstr "Теги:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Недавние статьи"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Популярные материалы"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Новые комментарии"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Тэги"
+
+#: ../functions/widgets/alx-tabs.php:187
+msgid "says:"
+msgstr "говорит:"
+
+#: ../inc/page-title.php:23
+msgid "Search result"
+msgstr "Результат поиска"
+
+#: ../inc/page-title.php:25
+msgid "Search results"
+msgstr "Результаты поиска"
+
+#: ../inc/page-title.php:31
+msgid "Error 404."
+msgstr "Ошибка 404 - Ничего не найдено"
+
+#: ../inc/page-title.php:31
+msgid "Page not found!"
+msgstr "Страница не найдена!"
+
+#: ../inc/page-title.php:35
+msgid "Author:"
+msgstr "Автор:"
+
+#: ../inc/page-title.php:38
+msgid "Category:"
+msgstr "Категория:"
+
+#: ../inc/page-title.php:41
+msgid "Tagged:"
+msgstr "Теги:"
+
+#: ../inc/page-title.php:44
+msgid "Daily Archive:"
+msgstr "Архив за день"
+
+#: ../inc/page-title.php:47
+msgid "Monthly Archive:"
+msgstr "Архив за месяц:"
+
+#: ../inc/page-title.php:50
+msgid "Yearly Archive:"
+msgstr "Архив за год"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Следующая запись"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Предыдущая запись"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "Вам также может понравиться …"
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "К себе"
